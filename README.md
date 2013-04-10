@@ -16,7 +16,7 @@ Usage
 Rebooting machines 
 
     $ mco power reboot
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
@@ -27,7 +27,7 @@ Rebooting machines
 Shutting down machines 
 
     $ mco power shutdown
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
